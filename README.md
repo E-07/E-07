@@ -2,7 +2,7 @@
 
 👋 Olá, Tudo bom? 🤔 Eu espero que sim! Deixa eu em apresentar...
 
-😎 Eu me chamo 07! ~ Sou dono da **Ayla** Um bot em JavaScript para o seu Discord! Ela é **100%** Open Source. 🥳
+😎 Eu me chamo 07! ~ Sou Desenvolvedor **JavaScript!** Também sei um pouco sobre **Python!** 😁 ~ Sou dono da **Ayla** Um bot em JavaScript para o seu Discord! 🥳 Ela é **100%** Open Source. 💯
 
 **Discord: 07#0607**
 
